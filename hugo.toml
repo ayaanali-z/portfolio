@@ -1,4 +1,4 @@
-baseURL = 'https://ayaanali-z.github.io/portfolio/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Ayaan Ali'
 theme = 'terminal'
