@@ -24,7 +24,7 @@ copyright = "© 2025 Ayaan Ali. All rights reserved."
     [[menu.main]]
     identifier = "CV"
     name = "CV"
-    url = "/resume/Ayaan_Ali_CV_August2025.pdf"
+    url = "resume/Ayaan_Ali_CV_August2025.pdf"
 
 [caches]
   [caches.images]

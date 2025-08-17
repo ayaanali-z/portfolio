@@ -14,7 +14,7 @@ I aspire to become an academic specializing in South Asia. After I graduate from
 My motivation for studying South Asia, specifically Pakistan, lies at the intersection of my personal identities and the region's growing influence in global affairs. There is a dearth of Pakistan specialists in the U.S. history departments, and I hope to help fill that gap. 
 
 
-![Jahangir's Wine Cup](/images/winecup.jpg)
+![Jahangir's Wine Cup](images/winecup.jpg)
 
 This is a jade winecup that was made for the Mughal emperor Jahangir in 1613. It's currently at the Victoria and Albert Museum in Londom. 
 
