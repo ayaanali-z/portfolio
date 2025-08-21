@@ -3,6 +3,8 @@ date = '2025-08-16T20:24:14-04:00'
 title = 'Contact'
 +++
 
+![Contact Cover](/images/contact_cover.jpg)
+
 Feel free to reach out through any of the following:
 
 ## 📧 Email

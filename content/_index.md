@@ -7,11 +7,11 @@ title = 'Ayaan Ali'
 
 My name is Ayaan. 
 
-I'm an undergraduate at Columbia University where I major in history and South Asian studies. My academic interests are interdisciplinary, and I often try to supplement my historical coursework with philosophy, religion, area studies, anthropology, and sociology.  
+I'm a senior at Columbia University where I study history, among other things. 
 
-I aspire to become an academic specializing in South Asia. After I graduate from Columbia, I plan on pursuing master's programs in South Asian studies abroad in the United Kingdom. I will then seek a doctoral program back in the U.S. either in area studies or history.   
+My interests include political and social theory, cinema studies, and South Asia. 
 
-My motivation for studying South Asia, specifically Pakistan, lies at the intersection of my personal identities and the region's growing influence in global affairs. There is a dearth of Pakistan specialists in the U.S. history departments, and I hope to help fill that gap. 
+Currently, I am actively studying Urdu and its poetry and literature. 
 
 
 ![Jahangir's Wine Cup](images/winecup.jpg)
